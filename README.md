@@ -4,7 +4,7 @@ Extract `rgssad` / `rgss2a` / `rgss3a` files.
 
 #### Usage
 ```
-rgssd
+rgssd		<commands>
 
 Commands:
     help
