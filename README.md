@@ -1,10 +1,10 @@
-#### Description
-Rgss Decryptor.
-Extract `rgssad` / `rgss2a` / `rgss3a` files.
+## Rgssd
 
-#### Usage
+A Cli tool to manipulate `rgssad` / `rgss2a` / `rgss3a` files.
+
+### Usage
 ```
-rgssd		<commands>
+    rgssd       <commands>
 
 Commands:
     help
@@ -12,4 +12,5 @@ Commands:
     list        <archive>
     unpack      <archive> <folder> [<filter>]
     pack        <folder> <archive> [<version>]
+    repack      <folder> <archive> <template>
 ```
